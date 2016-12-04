@@ -103,7 +103,7 @@ Entramos en vim y ejecutamos __:PlugInstall__
 
 ### .vimrc
 
-Voy a poner aquí mi .vimrc completo, contiene algunos mapeos y funciones que llevo arrastrando algún tiempo. Seguramente no te venga bien pero tiene algunas utilidades interesantes, sobre todo __espaci+r__.
+Voy a poner aquí mi .vimrc completo, contiene algunos mapeos y funciones que llevo arrastrando algún tiempo. Seguramente no te venga bien pero tiene algunas utilidades interesantes, sobre todo __espacio+r__.
 
 ```
 set mouse=a
